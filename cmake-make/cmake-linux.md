@@ -1,4 +1,4 @@
-### Cmake project build
+### Cmake Project Build
 * Let There is a Project Folder
 * Folder Contents
 #### CMakeLists.txt
